@@ -9,8 +9,6 @@
 ![AI](https://img.shields.io/badge/AI-Powered-purple?style=flat-square)
 ![Chinese](https://img.shields.io/badge/Context-Chinese-red?style=flat-square)
 
-*Developed by **Group 17** - Queen Mary University of London*
-
 </div>
 
 ---
